@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: 3px solid blue;
+    padding: 5px;
+    border-radius: 10px;
+    border: 10px;
+    text-align: justify;
+}
+
+img {
+    height: 70%;
+    width: 50%;
+    border-radius: 40%;
+}
+
+input {
+    outline: solid gold;
+}
+
+h1 {
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    color: navy;
+}
+
+select {
+    outline: solid gold;
+}
